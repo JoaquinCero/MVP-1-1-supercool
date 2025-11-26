@@ -1,0 +1,7 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic
+google-generativeai

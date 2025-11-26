@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Líder del Sector (AEO Optimizada)",
+    "url": "https://competidora.com",
+    "paa_score": 92,
+    "diagnostico": "Netflix"
+  },
+  {
+    "name": "Competidor Promedio (Falta Schema)",
+    "url": "https://promedio.net",
+    "paa_score": 65,
+    "diagnostico": "Video Club"
+  },
+  {
+    "name": "Competidor Débil (Mala Estructura)",
+    "url": "https://malo.org",
+    "paa_score": 38,
+    "diagnostico": "Blockbuster"
+  }
+]
